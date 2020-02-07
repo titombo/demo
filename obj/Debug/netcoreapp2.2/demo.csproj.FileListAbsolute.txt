@@ -1,0 +1,14 @@
+C:\Tito\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.deps.json
+C:\Tito\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.runtimeconfig.json
+C:\Tito\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.runtimeconfig.dev.json
+C:\Tito\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.dll
+C:\Tito\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.pdb
+C:\Tito\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.csprojAssemblyReference.cache
+C:\Tito\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.csproj.CoreCompileInputs.cache
+C:\Tito\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.RazorAssemblyInfo.cache
+C:\Tito\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.RazorAssemblyInfo.cs
+C:\Tito\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.AssemblyInfoInputs.cache
+C:\Tito\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.AssemblyInfo.cs
+C:\Tito\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.RazorTargetAssemblyInfo.cache
+C:\Tito\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.dll
+C:\Tito\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.pdb
